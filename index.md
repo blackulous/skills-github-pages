@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-## This is me learning how to ake pages using github pages
+## This is me learning how to make pages using github pages
